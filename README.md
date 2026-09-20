@@ -54,6 +54,24 @@ machine learning, and evaluation workflow.
 - `customer_transaction_prediction.ipynb` - Jupyter Notebook containing the complete project.
 - Dataset files - Data used for analysis and machine learning.
 
+## Models Used
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+
+## Results
+
+     precision    recall  f1-score   support
+
+           0       0.92      0.99      0.95     35903
+           1       0.70      0.27      0.39      4097
+
+    accuracy                           0.91     40000
+   macro avg       0.81      0.63      0.67     40000
+weighted avg       0.90      0.91      0.90     40000
+
+
 ## Machine Learning
 
 Machine learning classification techniques are used to predict customer transaction behavior.
