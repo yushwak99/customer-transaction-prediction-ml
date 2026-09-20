@@ -16,6 +16,15 @@ The project includes data preprocessing, exploratory data analysis, feature engi
 - Evaluate model performance
 - Generate predictions
 
+## Dataset
+
+The dataset used for this project is a large customer transaction dataset.
+
+Due to its large file size, the raw dataset is not included directly in this GitHub repository.
+
+The Jupyter Notebook contains the complete data preprocessing, analysis,
+machine learning, and evaluation workflow.
+
 ## Project Workflow
 
 1. Data Loading
